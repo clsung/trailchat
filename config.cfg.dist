@@ -1,0 +1,8 @@
+[hipchat]
+notify_url=
+room_id=
+
+[aws]
+region=us-east-1
+role=
+profile=
